@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello ! 
+
+I'am Jovan , student in university Saint Kliment ohridski! 
